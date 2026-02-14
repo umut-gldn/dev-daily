@@ -1,5 +1,7 @@
 # Dev Daily
 
+**[dev-daily.vercel.app](https://dev-daily.vercel.app)**
+
 Geliştiriciler için günlük trend özeti. GitHub Trending, Hacker News ve Dev.to verilerini tek bir dashboard'da toplar, AI ile günün analizini sunar.
 
 ## Özellikler
