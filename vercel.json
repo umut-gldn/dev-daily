@@ -1,0 +1,14 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "functions": {
+    "api/digest.js": { "maxDuration": 30 },
+    "api/rss.js": { "maxDuration": 15 },
+    "api/weekly.js": { "maxDuration": 30 },
+    "api/archive.js": { "maxDuration": 10 },
+    "api/analytics.js": { "maxDuration": 10 },
+    "api/track.js": { "maxDuration": 10 },
+    "api/email.js": { "maxDuration": 10 },
+    "api/og.js": { "maxDuration": 10 }
+  }
+}
